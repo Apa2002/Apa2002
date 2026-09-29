@@ -1,6 +1,6 @@
 # Hi, I'm Arezoo Pasand 👋
 
-I'm an M.Sc. Biomedical Engineering student. My research interests include **EEG-based visual decoding, visual perception, and multimodal deep learning**. I study how brain signals and visual representations can be combined to better understand human perception.
+I'm an M.Sc. Biomedical Engineering student. I study how brain signals and visual representations can be combined to better understand human perception.
 
 ## Research interests
 
