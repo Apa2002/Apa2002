@@ -15,6 +15,7 @@ For my master's thesis, I developed a framework that combines CLIP-guided repres
 This work connects neural signal analysis with visual representation learning to investigate EEG-based visual category decoding.
 
 **Related manuscript:** First-author manuscript **submitted to a conference**.
+[View research overview and results →](https://github.com/Apa2002/HiCaps-EEG)
 
 ## Selected projects
 
