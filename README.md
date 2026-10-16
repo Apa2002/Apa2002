@@ -10,7 +10,9 @@ Neural decoding · Visual perception · Representation learning · Multimodal le
 
 ### 🧠 HiCaps-EEG | Visual category decoding from EEG
 
-For my master's thesis, I developed a framework that combines CLIP-guided representations of **contour, object, and context** with capsule-based EEG features. A reliability-aware mechanism adapts their contribution for each observation. I also analyzed temporal and category-level decoding patterns.
+For my master's thesis, I developed HiCaps-EEG, a **PyTorch** framework combining CLIP-guided hierarchical visual representations with capsule-based EEG features. The model uses **transformer-based contextual encoding**, **cross-attention**, and **reliability-aware fusion** to integrate complementary neural representations.
+
+I evaluated the framework under **unseen-stimulus and unseen-subject protocols**, with additional temporal and category-level decoding analyses.
 
 This work connects neural signal analysis with visual representation learning to investigate EEG-based visual category decoding.
 
