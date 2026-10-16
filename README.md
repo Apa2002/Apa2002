@@ -1,12 +1,10 @@
 # Hi, I'm Arezoo Pasand 👋
 
-I'm an M.Sc. Biomedical Engineering student working on **EEG-based visual decoding** and **multimodal representation learning**. My research explores how brain signals and learned visual representations can be combined to study human visual perception.
-
-I am interested in extending this work to **self-supervised learning**, **video representations**, and **computational approaches to understanding behaviour**.
+I'm an M.Sc. Biomedical Engineering student with research experience in **neural signal analysis**, **computer vision**, and **multimodal learning**. My work involves developing and evaluating deep learning methods for neural and biomedical data.
 
 ## Research interests
 
-EEG decoding · Visual perception · Multimodal representation learning · Self-supervised learning · Video and behavioural modelling
+Neural decoding · Visual perception · Representation learning · Multimodal learning · Video modeling · Medical image analysis
 
 ## Featured research
 
